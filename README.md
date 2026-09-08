@@ -1,4 +1,4 @@
-# 🛡️ AI-Powered Cybersecurity Threat Detection System
+# 🛡️ AI-Powered Cybersecurity Threat Detection 
 
 An AI and Machine Learning based cybersecurity project designed to analyze network traffic data, identify suspicious behavior, classify cyber threats, and generate alerts.
 
@@ -12,7 +12,7 @@ Modern computer networks generate large amounts of security and traffic data.
 
 Traditional cybersecurity systems often depend on predefined rules. These rules may not always identify new or unusual attack patterns.
 
-The **AI-Powered Cybersecurity Threat Detection System** uses Machine Learning to analyze network activity and identify whether behavior is:
+The **AI-Powered Cybersecurity Threat Detection** uses Machine Learning to analyze network activity and identify whether behavior is:
 
 - ✅ Normal
 - ⚠️ Suspicious
